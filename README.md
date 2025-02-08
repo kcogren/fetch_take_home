@@ -26,3 +26,6 @@ go build .
 
 ## Test
 
+```bash
+go test ./...
+```
